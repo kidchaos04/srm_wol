@@ -10,7 +10,9 @@
 	background-size: cover;
 	background-position: center;
 }
-
+.navbar-nav{
+	background-color:#ffff00;
+}
 
 .navbar-nav li a{
 	float: right;
