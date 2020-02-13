@@ -1,7 +1,7 @@
 *{
 	margin: 0;
 	padding: 0;
-	background-color:white;
+	
 	
 }
 
@@ -12,7 +12,7 @@
 	background-position: center;
 }
 .navbar-nav{
-	background-color:#ffff00;
+	background-color:white;
 }
 
 .navbar-nav li a{
